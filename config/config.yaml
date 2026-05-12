@@ -1,0 +1,4 @@
+llm:
+  groq:
+  provider: "groq"
+  model_name: "deepseak-r1-distill-llama-70b"
