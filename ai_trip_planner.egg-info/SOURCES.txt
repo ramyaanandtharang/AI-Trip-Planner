@@ -27,3 +27,4 @@ utils/currency_converter.py
 utils/model_loader.py
 utils/place_info_search.py
 utils/save_to_document.py
+utils/weather_info.py
